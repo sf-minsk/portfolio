@@ -3,3 +3,7 @@
     background-color: rgb(49, 51, 54);
 }
 
+.skillsContainer {
+    align-items: flex-start;
+    justify-content: space-between;
+}
