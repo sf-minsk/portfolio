@@ -1,0 +1,34 @@
+.hireBlock {
+    min-height: 300px;
+    background-color: rgb(26, 37, 42);
+
+}
+
+.hireContainer {
+    justify-content: flex-start;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.title {
+    background-color: darkslategray;
+
+}
+
+.hireButton {
+    padding: 10px 25px 10px 25px;
+    background-color: #08ff00;
+    text-decoration: none;
+
+}
+
+.hire {
+    width: 100%;
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}

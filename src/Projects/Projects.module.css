@@ -1,10 +1,10 @@
-.skillsBlock {
+.projectsBlock {
     min-height: 100vh;
-    background-color: rgb(26, 37, 42);
+    background-color: rgb(31, 86, 108);
 
 }
 
-.skillsContainer {
+.projectsContainer {
     justify-content: flex-start;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -15,7 +15,9 @@
 
 }
 
-.skills {
+
+
+.projects {
     width: 100%;
     border: 1px solid;
     display: flex;
